@@ -350,7 +350,7 @@ header {
       ); /* Transparent to light glow transition */
 }
 .noice-back {
-  background-image: url(/Assets/image/noise-367273367ea5b1bc9905.webp);
+  background-image: url(https://sujal2214m.github.io/binomo-desktop-clone/Assets/image/noise-367273367ea5b1bc9905.webp);
   opacity: 15%;
   position: absolute;
   left: 0;
@@ -491,7 +491,7 @@ header {
   margin-right: 0.5rem;
 }
 .graph {
-  background-image: url(/Assets/image/graph.webp);
+  background-image: url(https://sujal2214m.github.io/binomo-desktop-clone/Assets/image/graph.webp);
   display: flex;
   align-items: flex-end;
 }
@@ -499,7 +499,7 @@ header {
   height: 250px;
 }
 .message-img {
-  background-image: url(/Assets/image/message.svg);
+  background-image: url(https://sujal2214m.github.io/binomo-desktop-clone/Assets/image/message.svg);
   background-repeat: no-repeat;
   height: 5rem;
   font-size: 1rem;
@@ -645,7 +645,7 @@ max-height: 9rem;
 font-weight: 900;
 }
 .rainbow{
-  background-image: url(/Assets/image/rainbow.webp);
+  background-image: url(https://sujal2214m.github.io/binomo-desktop-clone/Assets/image/rainbow.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
